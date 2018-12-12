@@ -19,7 +19,6 @@
 
 <p>After Effect Video</p>
 
-  <p> <a href= "alterego.html> Alter Ego </a> </p>
   <div class="cont s--inactive">
   <!-- cont inner start -->
   <div class="cont__inner">
@@ -29,11 +28,11 @@
         <div class="el__inner">
           <div class="el__bg"></div>
           <div class="el__preview-cont">
-            <h2 class="el__heading">Section 1</h2>
+            <h2 class="el__heading">Alter Ego</h2>
           </div>
           <div class="el__content">
-            <div class="el__text">Whatever</div>
-            <div class="el__close-btn"></div>
+            <div href="mw/RoadtoSuccess.psd"></div>
+            <div class="el__close-btn">Alter Ego</div>
           </div>
         </div>
       </div>
@@ -51,7 +50,7 @@
         <div class="el__inner">
           <div class="el__bg"></div>
           <div class="el__preview-cont">
-            <h2 class="el__heading">Section 2</h2>
+            <h2 class="el__heading">Logo</h2>
           </div>
           <div class="el__content">
             <div class="el__text">Whatever</div>
