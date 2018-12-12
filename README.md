@@ -10,12 +10,10 @@
 <body bgcolor="FFFFFF">
 <h1 style="font-family:verdana">
 
-<h1>My First Heading</h1>
 <p style="position:absolute; top 100px; left 200px; width:45; height:100px>" First Paragraph</p>
 
-<p>My Secound Paragraph</p>
 <div>
-<img scr="img/mwm.jpg" width="500" height="500">
+<img scr="images/MWM Zine4.indd width="500" height="500">
 
 <p>PDF To Zine</p>
 
@@ -139,11 +137,7 @@
   <!-- cont inner end -->
 </div>
 
-<a href="https://dribbble.com/shots/2802024-Satellite-Website-Prototype" target="_blank" class="icon-link">
-  <img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Dribbble-icon.png">
-</a>
-<a href="https://twitter.com/NikolayTalanov" target="_blank" class="icon-link icon-link--twitter">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png">
+
 </a>
 </body>
 </html>
