@@ -16,7 +16,7 @@
    <img scr="images/IMG_E1037.JPG" width="400" height "400">
     </div>
     
-    <p><a href= "MWM%20Zine3.pdf">Digital Zine</a><p>
+    <p><a href= "MWM Zine3.pdf">Digital Zine</a><p>
     
     <h2>HTML Image</h2>
 <img src="RoadtoSuccess.jpg" alt="Alter Ego" width="460" height="345">
