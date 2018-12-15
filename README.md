@@ -18,6 +18,9 @@
     
 <img scr="pdfofzine/MWM%20Zine3.pdf"
     
+ [MWMZine3.pdf](https://github.com/MannaWanna/julienilboudo.github.io/files/2682519/MWMZine3.pdf)
+   
+    
     
 <img scr="alterego/RoadtoSuccess.jpg"
 
