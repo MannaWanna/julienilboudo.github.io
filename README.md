@@ -14,13 +14,13 @@
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
 
-<img scr="images/IMGf" width="400" height "400">
+![](images/MWM%20Zine2.pdf) 
     
     
-![](pdfofzine/.htmlMWM%20Zine3.pdf)
+![](pdfofzine/MWM%20Zine3.pdf)
     
     
-![](alterego.html/RoadtoSuccess.jpg)
+![](alterego/RoadtoSuccess.jpg)
 
 
 <img src="images/MannaWanna3ai.jpg" width="400" height="400">
