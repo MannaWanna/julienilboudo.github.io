@@ -27,7 +27,7 @@
 
 
 
-<img src="RoadtoSuccess.jpg" alt="alterego.html" width="460" height="460">
+<img src="RoadtoSuccess.jpg" alt="alterego.html" width="460" height="360">
 
 
 
