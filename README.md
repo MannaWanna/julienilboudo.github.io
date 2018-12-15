@@ -19,7 +19,8 @@
    
     
     
-<img scr="alterego/RoadtoSuccess.jpg"
+![roadtosuccess](https://user-images.githubusercontent.com/44008956/50041311-d9877f00-0020-11e9-9c69-dadabc789102.jpg)
+
 
 
 <img src="images/MannaWanna3ai.jpg" width="400">
