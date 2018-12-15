@@ -8,15 +8,12 @@
   </head>
   
  
- <body background="MWMZine4.jpg bgcolor"#F47F65">
+ <body bgcolor"#F47F65">
   
   <h1 style="font-family:times new roman">Manna Wanna Movement</h!>
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
-
-<img scr="Firstpageinzine/MWMZine4.jpg"
     
-<img scr="pdfofzine/MWM%20Zine3.pdf"
     
  [MWMZine3.pdf](https://github.com/MannaWanna/julienilboudo.github.io/files/2682519/MWMZine3.pdf)
    
