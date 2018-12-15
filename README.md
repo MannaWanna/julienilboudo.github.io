@@ -11,7 +11,7 @@
  <body bgcolor+"#F47F65">
   
   <h1 style="font-family:times new roman">Manna Wanna Movement</h!>
-  <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Manna Wanna Movement</p>
+  <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
 
 <img scr="MWM Zine2.pdf" alt=" width="400" height "400">
@@ -27,7 +27,7 @@
 
 
 
-<img src="RoadtoSuccess.jpg" alt="alterego.html" width="460" height="345">
+<img src="RoadtoSuccess.jpg" alt="alterego.html" width="460" height="460">
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<img src="MannaWanna3ai.jpg" alt="Logo.html" width="460" height="445">
+<img src="MannaWanna3ai.jpg" alt="Logo.html" width="460" height="460">
 
 <a href=""></a>
     </body>
