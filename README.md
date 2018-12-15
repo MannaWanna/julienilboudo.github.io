@@ -17,10 +17,10 @@
 <img scr="images/IMGf" width="400" height "400">
     
     
-<img scr="images/MWM%20Zine3.pdf" width="400" height "400">
+![](pdfofzine/.htmlMWM%20Zine3.pdf)
     
     
-<img src="images/RoadtoSuccess.jpg" width="400" height="400">
+![](alterego.html/RoadtoSuccess.jpg)
 
 
 <img src="images/MannaWanna3ai.jpg" width="400" height="400">
