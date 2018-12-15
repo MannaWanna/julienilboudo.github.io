@@ -14,28 +14,16 @@
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
 
-<img scr="MWM Zine3.jpg.pdf" alt="Firstpageofzine" width="400" height "400">
+<img scr="images/MWM Zine3.jpg.pdf" width="400" height "400">
     
     
-
-
-
-
-<img scr="MWM Zine3.pdf" alt="pdftozine.html" width="400" height "400">
+<img scr="images/MWM Zine3.pdf" width="400" height "400">
     
     
+<img src="images/RoadtoSuccess.jpg" width="400" height="400">
 
 
-
-<img src="RoadtoSuccess.jpg" alt="alterego.html" width="400" height="400">
-
-
-
-
-
-
-
-<img src="MannaWanna3ai.jpg" alt="Logo.html" width="400" height="400">
+<img src="images/MannaWanna3ai.jpg" width="400" height="400">
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/REpn_pTE4wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </body>
