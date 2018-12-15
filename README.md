@@ -21,13 +21,13 @@
 
 
 
-<img scr="MWM Zine3.pdf" alt="pdftozine.html">
+<img scr="MWM Zine3.pdf" alt="pdftozine.html" width="400" height "400">
     
     
 
 
 
-<img src="RoadtoSuccess.jpg" alt="alterego.html" width="460" height="360">
+<img src="RoadtoSuccess.jpg" alt="alterego.html" width="400" height="400">
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<img src="MannaWanna3ai.jpg" alt="Logo.html" width="460" height="460">
+<img src="MannaWanna3ai.jpg" alt="Logo.html" width="400" height="400">
 
 <a href=""></a>
     </body>
