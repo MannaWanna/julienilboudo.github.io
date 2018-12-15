@@ -14,7 +14,7 @@
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
 
-<img scr="MWM Zine2.pdf" alt=" width="400" height "400">
+<img scr="MWM Zine3.jpg.pdf" alt="Firstpageofzine" width="400" height "400">
     
     
 
