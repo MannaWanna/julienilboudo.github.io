@@ -27,7 +27,7 @@
 
 
 <h2>HTML Image</h2>
-<p><img src="MWM Zine2.pdf" alt="Logo" width="460" height="345"></p>
+<p><img src=" /images/MWM Zine2.pdf" alt="Logo" width="460" height="345"></p>
 
 <a href=""></a>
     </body>
