@@ -17,7 +17,7 @@
 <img scr="images/IMGf" width="400" height "400">
     
     
-<img scr="images/MWM Zine3.pdf" width="400" height "400">
+<img scr="images/MWM%20Zine3.pdf" width="400" height "400">
     
     
 <img src="images/RoadtoSuccess.jpg" width="400" height="400">
