@@ -14,7 +14,7 @@
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
     
-    
+   <a href="https://issuu.com/home/published/mwm_zine3">Click me</a>
  [MWMZine3.pdf](https://github.com/MannaWanna/julienilboudo.github.io/files/2682519/MWMZine3.pdf)
    
     
