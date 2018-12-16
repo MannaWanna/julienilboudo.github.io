@@ -19,11 +19,11 @@
    
     
 
-![roadtosuccess](https://user-images.githubusercontent.com/44008956/50050098-7816ed00-00c0-11e9-98c7-6960fc88132e.png)
+![roadtosuccess](https://user-images.githubusercontent.com/44008956/50050098-7816ed00-00c0-11e9-98c7-6960fc88132e.png)>width "400"<
 
 
 
-![mannawanna3ai](https://user-images.githubusercontent.com/44008956/50050215-bf9e7880-00c2-11e9-8e82-913905b5e00b.jpg)
+![mannawanna3ai](https://user-images.githubusercontent.com/44008956/50050215-bf9e7880-00c2-11e9-8e82-913905b5e00b.jpg)>width "400"<
 
 
 
