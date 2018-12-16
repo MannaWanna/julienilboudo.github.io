@@ -19,7 +19,7 @@
    
     
 
-<img scr="RoadtoSuccess.gif" alt="Logo">
+<img scr="RoadtoSuccess.gif" alt="Alter-ego">
 
 
 
