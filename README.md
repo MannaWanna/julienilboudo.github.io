@@ -19,7 +19,7 @@
    
     
 
-![roadtosuccess](https://user-images.githubusercontent.com/44008956/50050098-7816ed00-00c0-11e9-98c7-6960fc88132e.png)>width "400"<
+<img scr="RoadtoSuccess.gif" alt="Logo">
 
 
 
