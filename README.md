@@ -8,7 +8,7 @@
   
   <body>
   
-  <h1 style="font-family:times new roman">Manna Wanna Movement</h!>
+  <h1 style="font-family:times new roman">Manna Wanna Movement</h>
   <p style="podition:absolute; top:100px; left 200px; color:#F47F65; font-size 20pt">Afrobeats To The World</p>
     
 
