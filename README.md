@@ -13,14 +13,12 @@
   <h1 style="font-family:times new roman">Manna Wanna Movement</h!>
   <p style="podition:absolute; top:100px; left 200px; color:#F4&F45; font-size 20pt">Afrobeats To The World</p>
     
-    
-   <a href="https://issuu.com/home/published/mwm_zine3">Click me</a>
- [MWMZine3.pdf](https://github.com/MannaWanna/julienilboudo.github.io/files/2682519/MWMZine3.pdf)
+
+
+<a href="https://issuu.com/home/published/mwm_zine3">Digital Zine</a>
    
     
 ![roadtosuccess](https://user-images.githubusercontent.com/44008956/50048941-89530000-00a6-11e9-86e7-f72bfab86c93.jpg)
-
-
 
 
 
