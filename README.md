@@ -18,7 +18,7 @@
 <a href="https://issuu.com/home/published/mwm_zine3">Digital Zine</a>
    
     
-![roadtosuccess](https://user-images.githubusercontent.com/44008956/50048941-89530000-00a6-11e9-86e7-f72bfab86c93.jpg)
+![roadtosuccess-1.jpg](https://user-images.githubusercontent.com/44008956/50048941-89530000-00a6-11e9-86e7-f72bfab86c93.jpg)
 
 
 
