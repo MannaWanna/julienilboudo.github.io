@@ -19,7 +19,7 @@
    
     
 
-<img scr="RoadtoSuccess.gif" alt="Alter-ego">
+![roadtosuccess](https://user-images.githubusercontent.com/44008956/50050330-887d9680-00c5-11e9-99b7-43d314aa2851.gif)
 
 
 
