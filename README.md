@@ -16,8 +16,8 @@
 <a href="https://issuu.com/home/published/mwm_zine3">Digital Zine</a>
    
     
+![alterego](https://user-images.githubusercontent.com/44008956/50057617-04fe8c80-013b-11e9-9192-3b9d0d55631c.jpg)
 
-![roadtosuccess](https://user-images.githubusercontent.com/44008956/50050330-887d9680-00c5-11e9-99b7-43d314aa2851.gif)
 
 
 
