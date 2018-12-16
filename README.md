@@ -39,7 +39,9 @@
 
 
 
-![mannawanna3](https://user-images.githubusercontent.com/44008956/50041340-47cc4180-0021-11e9-9818-7ec2b7bb3760.jpg)
+
+![mannawanna3ai](https://user-images.githubusercontent.com/44008956/50050215-bf9e7880-00c2-11e9-8e82-913905b5e00b.jpg)
+
 
 
 
